@@ -1,0 +1,63 @@
+ 
+button{
+  border-radius: 10px;
+  width: 35px;
+  font-size: 20px;
+  
+  border: none;
+  background-color: rgb(204, 225, 244);
+  }
+  
+  .centain{
+  /* border: 1px solid red; */
+  height: 520px;
+  text-align: center;
+  width: 90%;
+  color: aliceblue;
+  padding: 5%;
+  background-image:url(img/img2.jpg);
+  }
+  img{
+  width: 100%;
+  }
+  
+  
+  input{
+  border-radius: 100px 60px;
+  height: 35px;
+  width: 35%;
+  border: none;
+  font-family: 'Dancing Script', cursive;
+  
+  font-size: 30px;
+  }
+  
+  #ashraf{
+  font-family: 'Dancing Script', cursive;
+  
+  }
+  #ashraff{
+  font-size: 60px;
+  
+  
+  }
+  h1{
+  height: 19px;
+  
+  }
+  h4{
+  height: 19px;
+   
+
+ 
+  }
+  h3{
+  height: 1px;
+  font-size: 20px;
+
+ 
+  }
+  
+  #ashraf{
+  font-size: 80px;
+  }
